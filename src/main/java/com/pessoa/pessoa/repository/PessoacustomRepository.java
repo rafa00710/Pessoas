@@ -1,6 +1,6 @@
 package com.pessoa.pessoa.repository;
 
-//Query Dinamica
+//********Query Dinamica *********
 
 
 import com.pessoa.pessoa.document.Pessoa;
